@@ -1,1 +1,1 @@
-# goofycoin
+Goofy Coin Problem 
